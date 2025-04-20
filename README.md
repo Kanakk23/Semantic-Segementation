@@ -14,6 +14,6 @@ Our results:
 ![image](https://github.com/user-attachments/assets/23f40714-0c6e-4531-84f4-cab188a9f537)
 
 
-This implementation has achieved an micro **F1 score of approximately 0.7** on the CamVid dataset. Future directions include extending support to other datasets like Pascal VOC and Cityscapes, improving training speed and data augmentation, and experimenting with pre-trained backbones and more advanced complex-valued operations.
+This implementation has achieved an macro **F1 score of approximately 0.7** on the CamVid dataset. Future directions include extending support to other datasets like Pascal VOC and Cityscapes, improving training speed and data augmentation, and experimenting with pre-trained backbones and more advanced complex-valued operations.
 
 For any questions or collaboration inquiries, feel free to reach out. We hope this project serves as a useful starting point for exploring complex-valued neural networks in computer vision tasks.
