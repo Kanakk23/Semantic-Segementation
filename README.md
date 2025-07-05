@@ -21,4 +21,4 @@ For any questions or collaboration inquiries, feel free to reach out. We hope th
 ## Acknowledgments
 
 This project uses code from [complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch).  
-Big thanks to Sébastien M. Popoff (wavefrontshaping) for their awesome work!
+Big thanks to Sébastien M. Popoff (wavefrontshaping) for their awesome work.
